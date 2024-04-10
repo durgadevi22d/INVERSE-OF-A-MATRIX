@@ -19,11 +19,8 @@ End the program
 #### RegisterNumber: 212223100006
 ```
 import numpy as np
-
 A = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
-
 B = np.linalg.inv(A)
-
 print(B)
 
 ```
