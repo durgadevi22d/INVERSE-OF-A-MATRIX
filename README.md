@@ -17,11 +17,16 @@ End the program
 #### Program to find the inverse of a matrix.
 #### Developed by: DURGADEVI P
 #### RegisterNumber: 212223100006
+```
 import numpy as np
+
 A = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
+
 B = np.linalg.inv(A)
+
 print(B)
 
+```
 ## Output:
 ![output](/Screenshot%202024-04-09%20180056.png)
 ## Result:
